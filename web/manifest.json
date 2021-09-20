@@ -1,0 +1,23 @@
+{
+    "name": "Nimbus CV",
+    "short_name": "Nimbus CV",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A Beautifully engineered portfolio website built with flutter.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
